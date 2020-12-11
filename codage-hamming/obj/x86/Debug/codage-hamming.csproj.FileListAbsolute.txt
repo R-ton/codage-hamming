@@ -1,0 +1,16 @@
+G:\codage-hamming\codage-hamming\obj\x86\Debug\codage_hamming.Form1.resources
+G:\codage-hamming\codage-hamming\obj\x86\Debug\codage_hamming.Properties.Resources.resources
+G:\codage-hamming\codage-hamming\obj\x86\Debug\codage_hamming.ResultatHamming.resources
+G:\codage-hamming\codage-hamming\obj\x86\Debug\codage-hamming.csproj.GenerateResource.Cache
+G:\codage-hamming\codage-hamming\bin\Debug\codage-hamming.exe
+G:\codage-hamming\codage-hamming\bin\Debug\codage-hamming.pdb
+G:\codage-hamming\codage-hamming\obj\x86\Debug\codage-hamming.exe
+G:\codage-hamming\codage-hamming\obj\x86\Debug\codage-hamming.pdb
+D:\ITU\Info_S6\Codage\codage-hamming\codage-hamming\obj\x86\Debug\codage-hamming.exe
+D:\ITU\Info_S6\Codage\codage-hamming\codage-hamming\obj\x86\Debug\codage-hamming.pdb
+D:\ITU\Info_S6\Codage\codage-hamming\codage-hamming\bin\Debug\codage-hamming.exe
+D:\ITU\Info_S6\Codage\codage-hamming\codage-hamming\bin\Debug\codage-hamming.pdb
+D:\ITU\Info_S6\Codage\codage-hamming\codage-hamming\obj\x86\Debug\codage_hamming.Form1.resources
+D:\ITU\Info_S6\Codage\codage-hamming\codage-hamming\obj\x86\Debug\codage_hamming.Properties.Resources.resources
+D:\ITU\Info_S6\Codage\codage-hamming\codage-hamming\obj\x86\Debug\codage_hamming.ResultatHamming.resources
+D:\ITU\Info_S6\Codage\codage-hamming\codage-hamming\obj\x86\Debug\codage-hamming.csproj.GenerateResource.Cache
